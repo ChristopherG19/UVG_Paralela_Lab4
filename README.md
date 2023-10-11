@@ -1,1 +1,1 @@
-# UVG_Redes_Lab4
+# UVG_Paralela_Lab4
